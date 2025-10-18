@@ -56,7 +56,7 @@ Each image is annotated using **seven consistent region categories**:
 | **TextLineRegion** | Individual horizontal lines of text |
 | **SymbolicMark** | Section dividers, religious symbols |
 | **PhysicalDamage** | Binding holes, cracks, fading |
-| **Illustration** | Deities, animals, cultural drawings |
+| **Illustration** | Deities, animals, cultural drawing |
 | **Other** | Non-original (stamps, labels, notes) |
 
 <p align="center">
