@@ -51,7 +51,7 @@ Each image is annotated using **seven consistent region categories**:
 
 | Category          | Description |
 |-------------------|-------------|
-| **MainRegion**    | Primary content area; whole text block |
+| **MainRegion**    | Primary content area; whole text blocks |
 | **ParagraphRegion** | Grouped blocks of related text lines |
 | **TextLineRegion** | Individual horizontal lines of text |
 | **SymbolicMark** | Section dividers, religious symbols |
