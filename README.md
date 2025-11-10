@@ -121,7 +121,7 @@ python main.py train-rfdetr \
 ```
 ## 🙏 Acknowledgements
 
-- Manuscript collections sourced from **India, Cambodia and Indonesia** under open Creative Commons licenses.
+- Manuscript collections sourced from **India, Cambodia and Indonesia** under open Creative Commons license.
 
 - The annotation team included students and researchers from **Cambodia, China, and Indonesia**.
 
