@@ -22,7 +22,7 @@ PALM-LAY addresses this gap by providing:
   - `PhysicalDamage`
   - `Illustration`
   - `Other`  
-
+------
 The dataset enables benchmarking of state-of-the-art object detection models for **cross-script generalization** and **multi-class layout segmentation**.
 
 ---
