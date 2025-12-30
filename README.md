@@ -135,7 +135,7 @@ python main.py train-rfdetr \
 - Suryani, M., Paulus, E., Hadi, S., Darsa, U.A., Burie, J.C. (2017). *The handwritten Sundanese palm leaf manuscript dataset from 15th century.*
 - Kesiman, M.W.A., Burie, J.C., Wibawantara, G.N.M.A., Sunarya, I.M.G., Ogier, J.M. (2016). *AMADI_LontarSet: The first handwritten Balinese palm leaf manuscripts dataset.
 - Kesiman, M.W.A., Valy, D., Burie, J.C., Paulus, E., Suryani, M., Hadi, S., Verleysen, M., Chhun, S., Ogier, J.M. (2018). *ICFHR 2018 competition on document image analysis tasks for Southeast Asian palm leaf manuscripts.
-
+----
 ## 📚 Citation
 
 If you find **PALM-LAY** interesting and useful for your research, please cite:
