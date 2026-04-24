@@ -39,7 +39,7 @@ The dataset spans **six palm leaf traditions** from South and Southeast Asia:
 - **Balinese** (Indonesia, Bali) – Balinese Lontar collections  
 
 <p align="center">
-  <img src="fig/fig1.png" width="80%"><br>
+  <img src="fig/Fig1.jpg" width="80%"><br>
   <em>Fig. 1 – Examples of palm leaf manuscripts across six scripts and regions.</em>
 </p>
 
@@ -60,7 +60,7 @@ Each image is annotated using **seven consistent region categories**:
 | **Other** | Non-original (stamps, labels, notes) |
 
 <p align="center">
-  <img src="fig/Fig2.jpg" width="80%"><br>
+  <img src="fig/Fig2.jpg" width="60%" height="60%"><br>
   <em>Fig. 2 – Visualization of annotated regions across scripts.</em>
 </p>
 
@@ -77,8 +77,8 @@ Each image is annotated using **seven consistent region categories**:
 | Balinese          | 100   | 80    | 20   |
 | Sundanese         | 61    | 49    | 12   |
 | **Total**         | **566** | **453** | **113** |
-Raw datasets: https://drive.google.com/file/d/1HzFXMueRy-Cjfodepw9oa4tN49C9ae7L/view?usp=drive_link
 ---
+**Raw datasets**: https://drive.google.com/file/d/1HzFXMueRy-Cjfodepw9oa4tN49C9ae7L/view?usp=drive_link
 
 ## ⚙️ Benchmarking Experiments
 
