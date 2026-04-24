@@ -108,7 +108,7 @@ python main.py train-rfdetr \
 
 - The annotation team included students and researchers from **Cambodia, China, and Indonesia**.
 
-- Funding Support: This is part of the **PALM-WORLD project** is supported by **The World Academy of Sciences (Italy), the Chinese Academy of Sciences (China), One-to-Many Research (Cambodia), and the National Natural Science Foundation of China (China)**.`
+- Supported by: This is part of the **PALM-WORLD project** is supported by **University of Science and Technology of China (China), The World Academy of Sciences (Italy), the Chinese Academy of Sciences (China), One-to-Many Research (Cambodia), and the National Natural Science Foundation of China (China)**.`
 - Leading Project By: **Nimol Thuon**
 
 ## 🔗 References
