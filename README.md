@@ -39,7 +39,7 @@ The dataset spans **six palm leaf traditions** from South and Southeast Asia:
 - **Balinese** (Indonesia, Bali) – Balinese Lontar collections  
 
 <p align="center">
-  <img src="figures/fig1_examples.png" width="80%"><br>
+  <img src="fig/fig1.png" width="80%"><br>
   <em>Fig. 1 – Examples of palm leaf manuscripts across six scripts and regions.</em>
 </p>
 
@@ -60,7 +60,7 @@ Each image is annotated using **seven consistent region categories**:
 | **Other** | Non-original (stamps, labels, notes) |
 
 <p align="center">
-  <img src="figures/fig2_layout_categories.png" width="80%"><br>
+  <img src="fig/Fig2.jpg" width="80%"><br>
   <em>Fig. 2 – Visualization of annotated regions across scripts.</em>
 </p>
 
@@ -77,12 +77,7 @@ Each image is annotated using **seven consistent region categories**:
 | Balinese          | 100   | 80    | 20   |
 | Sundanese         | 61    | 49    | 12   |
 | **Total**         | **566** | **453** | **113** |
-
-<p align="center">
-  <img src="figures/fig3_annotation_workflow.png" width="80%"><br>
-  <em>Fig. 3 – Annotation workflow and quality control pipeline.</em>
-</p>
-
+Raw datasets: https://drive.google.com/file/d/1HzFXMueRy-Cjfodepw9oa4tN49C9ae7L/view?usp=drive_link
 ---
 
 ## ⚙️ Benchmarking Experiments
@@ -92,18 +87,6 @@ Experiments:
 1. **Script-specific performance** – trained & tested per script.  
 2. **Cross-script generalization** – trained on combined dataset, tested across all scripts.
 
-### Key Findings
-
-- **High accuracy** on `MainRegion`, `ParagraphRegion`, and `TextLineRegion`.  
-- **Lower accuracy** on small/rare categories (`SymbolicMark`, `PhysicalDamage`, `Other`).  
-- **YOLO series** excelled on small-object detection.  
-- **Transformer-based DETR** models handled large, structured regions well.  
-- **Cross-script training** improved underrepresented categories, showing feature transfer across scripts.
-
-<p align="center">
-  <img src="figures/fig4_detection_results.png" width="80%"><br>
-  <em>Fig. 4 – Sample detection outputs on different scripts.</em>
-</p>
 
 ### Quick Sample Run
 ```bash
